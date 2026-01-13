@@ -54,3 +54,4 @@ main_str = """
 
 for name, value in calculate_frequency(count_letters(main_str)).items():  # TODO Распечатайте в столбик букву и её частоту в тексте
     print(f'{name}: {value:.2f}')
+    
